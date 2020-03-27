@@ -11,7 +11,7 @@
 * Microsoft SQL Server Management Studio 2018
 
 ## Features
-This app was a database-first demo. I created a db "Sample" on my MSSQLLocalDB instance with a People tab. The People table has FirstName and LastName columns. The FormUI Winforms application allows a user to search the People table by last name, load all People, or insert a Person.
+This app was a database-first demo. I created a db "Sample" on my MSSQLLocalDB instance with a People table. The People table has FirstName and LastName columns. The FormUI Winforms application allows a user to search the People table by last name, load all People, or insert a Person.
 
 Three stored procs were created for the db:
 * dbo.spPeople_GetAll
