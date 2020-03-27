@@ -8,7 +8,7 @@
 
 ## Tools
 * Microsoft Visual Studio 2019
-* Microsoft SQL Server 2019
+* Microsoft SQL Server 2018
 
 ## Features
 This app was a database-first demo. I created a db "Sample" on my MSSQLLocalDB instance with a People tab. The People table has FirstName and LastName columns. The FormUI Winforms application allows a user to search the People table by last name, load all People, or insert a Person.
