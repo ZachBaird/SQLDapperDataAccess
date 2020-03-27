@@ -2,13 +2,13 @@
 .NET Winforms app where I demo basic read &amp; insert operations with Dapper.
 
 ## Techs
-C# / .NET Framework 4.7
-Dapper 2.0.30
-SQL Server
+* C# / .NET Framework 4.7
+* Dapper 2.0.30
+* SQL Server
 
 ## Tools
-Microsoft Visual Studio 2019
-Microsoft SQL Server 2019
+* Microsoft Visual Studio 2019
+* Microsoft SQL Server 2019
 
 ## Features
 This app was a database-first demo. I created a db "Sample" on my MSSQLLocalDB instance with a People tab. The People table has FirstName and LastName columns. The FormUI Winforms application allows a user to search the People table by last name, load all People, or insert a Person.
